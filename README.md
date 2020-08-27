@@ -1,20 +1,19 @@
 # osu-skin
-Personal osu skin
+***Personal osu skin***
 
 Mostly kept the game looking the same whenever possible.
-The changes made were mostly for gameplay clarity reasons.
+Changes made were mostly for gameplay clarity reasons.
 
-I use transparency quite liberally to help the gameplay elements blend better with the background.
-And specifically picked some colours to really stand out to make things easier to notice.
+I use transparency a lot to help gameplay elements blend better with the background.
+And picked some colours that really stand out to make important stuff easier to notice.
 
-Note that this is not final and is a work in progress as I think of things that can improve gameplay clarity.
+This is a work in progress and can change at any time as I think of ways to make things better.
 
-Feel free to take a look at the png files and if you like what you see, just download and extract to your osu skin folder.
-Alternatively you could also git clone if you have git installed.
+If you like what you see in the png files, just download and extract to your osu skin folder.
 
 List of changes:
-* Reverse arrow: Changed it from the default white that just disappears into the slider border and made it a bright red to make it stand out.
-* Hit circle: Background has transparency so that when things are stacked right on top of each other, it's easier to see what's going on.
+* Reverse arrow: Changed it to bright red from the default white to make it stand out better.
+* Hit circle: Added some transparency so that it's easier to see when things are stacked right on top of each other.
 * Spinner is less obnoxious and blends more into background.
 * Very visible lines to make it easier to see jumps, helpful when playing with flashlight.
 * Scores:
